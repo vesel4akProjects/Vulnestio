@@ -40,6 +40,6 @@ There's another parameter that hasn't been implemented yet. This is the --genera
 
 There's also a very useful function for filtering files by their minimum and maximum size in bytes. In the future, we plan to add a function so that instead of typing --min-size 1024, you can type --min-size 1K. This feature will reduce typing time.
 
-##The number of flags and dictionaries for extensions are also being expanded. My preference is to have at least 10,000 for each parameter with extensions. I'm also thinking about adding a flag to ignore certain extensions, as well as a flag for using a custom list of dictionaries. This is all planned for the future, as this tool is practically infinitely expandable, and anyone can throw words to the wind.
+The number of flags and dictionaries for extensions are also being expanded. My preference is to have at least 10,000 for each parameter with extensions. I'm also thinking about adding a flag to ignore certain extensions, as well as a flag for using a custom list of dictionaries. This is all planned for the future, as this tool is practically infinitely expandable, and anyone can throw words to the wind.
 
-###If you're interested in this project, be sure to give it a star and offer a suggestion. You can also contact me via Telegram. I'm there under the username @Vesel4ak31. I hope at least one person working in or interested in cybersecurity will download and try this tool.
+If you're interested in this project, be sure to give it a star and offer a suggestion. You can also contact me via Telegram. I'm there under the username @Vesel4ak31. I hope at least one person working in or interested in cybersecurity will download and try this tool.
