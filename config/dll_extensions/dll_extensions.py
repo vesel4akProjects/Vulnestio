@@ -1,0 +1,20 @@
+dll_extensions = {
+    ".dll", ".exe", ".sys", ".drv", ".ocx", ".cpl", ".ax", ".scr", ".efi", ".mui", ".pyd", ".so", ".dylib", ".bundle",
+    ".a", ".lib", ".la", ".lo", ".o", ".obj", ".ko", ".mod", ".cmxs", ".cmxa", ".cmx", ".cmi", ".cmo", ".cmt", ".cmta",
+    ".cmti", ".dylib", ".framework", ".node", ".jar", ".war", ".ear", ".sar", ".par", ".nar", ".rar", ".kar", ".bar",
+    ".whl", ".egg", ".dist-info", ".pex", ".nupkg", ".msi", ".msm", ".msp", ".msu", ".cab", ".inf", ".cat", ".vxd",
+    ".386", ".acm", ".ax", ".bpl", ".bpl", ".cdm", ".dcu", ".dcpil", ".dpl", ".drc", ".dsm", ".dws", ".flt", ".fon",
+    ".fot", ".fpm", ".hlp", ".icm", ".icl", ".icm", ".ime", ".iqy", ".isp", ".its", ".job", ".jse", ".kbd", ".lck",
+    ".lgn", ".lha", ".lzh", ".mac", ".mam", ".mcr", ".mda", ".mdb", ".mde", ".mdn", ".mdt", ".mdw", ".mdz", ".mht",
+    ".mhtml", ".mmc", ".mpp", ".mpz", ".msc", ".msi", ".msp", ".mst", ".mui", ".nls", ".nrm", ".nws", ".oar", ".obj",
+    ".ocx", ".oft", ".ops", ".ost", ".p10", ".p12", ".p7b", ".p7c", ".p7m", ".p7r", ".p7s", ".pcd", ".pdb", ".pds",
+    ".pfx", ".pma", ".pmc", ".pml", ".pmm", ".pmw", ".pnf", ".pol", ".ppd", ".prf", ".prm", ".prx", ".psd", ".pst",
+    ".ptf", ".qds", ".qic", ".qpx", ".qry", ".rbf", ".rct", ".rdp", ".rsp", ".rtf", ".rtx", ".sct", ".sdb", ".sds",
+    ".sfc", ".shb", ".shs", ".spl", ".spn", ".sst", ".stf", ".stp", ".stt", ".svr", ".swp", ".syd", ".sym", ".sys",
+    ".tbl", ".tlb", ".tsp", ".ttf", ".ttc", ".tyb", ".udl", ".uls", ".url", ".utc", ".vbx", ".vfd", ".vfo", ".vxd",
+    ".wcm", ".wcp", ".wdb", ".wks", ".wll", ".wlt", ".wop", ".wp", ".wp5", ".wp6", ".wpd", ".wpg", ".wpl", ".wps",
+    ".wpt", ".wq1", ".wq2", ".wr1", ".wrk", ".wrl", ".wrz", ".ws", ".wsf", ".wsh", ".wsz", ".x32", ".x64", ".x86",
+    ".xbap", ".xla", ".xlam", ".xlb", ".xlc", ".xld", ".xlk", ".xll", ".xlm", ".xls", ".xlsb", ".xlsm", ".xlsx",
+    ".xlt", ".xltm", ".xltx", ".xlw", ".xml", ".xms", ".xns", ".xog", ".xpi", ".xps", ".xpt", ".xrb", ".xrf", ".xrm",
+    ".xrp", ".xsn", ".xsp", ".xtp", ".xvd", ".xxe", ".zap", ".zfsendtotarget", ".zlo", ".zoo", ".zsd", ".zst", ".zst"
+}
