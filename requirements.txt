@@ -1,0 +1,4 @@
+colorama>=0.4.6
+psutil>=5.9.0
+tqdm>=4.66.0
+pathlib2>=2.3.6  # для обратной совместимости Python 3.4-, но обычно pathlib встроен в Python 3.4+
