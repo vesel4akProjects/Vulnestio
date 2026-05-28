@@ -59,4 +59,4 @@ If you're interested in this project, be sure to give it a star and offer a sugg
 
 # Disclaimer
 
-The author assumes no liability for this tool. It is marketed solely as post-exploitation software for finding secrets only on machines to which you have access. This software is designed solely for personal testing, various CTF competitions, and real-world use.
+# The author assumes no liability for this tool. It is marketed solely as post-exploitation software for finding secrets only on machines to which you have access. This software is designed solely for personal testing, various CTF competitions, and real-world use.
