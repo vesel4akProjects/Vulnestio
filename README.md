@@ -24,9 +24,15 @@ python3 vulnestio.py -t 1 -l -c 300 -i
 ```
 In this example, the -t parameter sets the timeout in seconds between secret searches. The -l parameter controls logging of actions. The -c parameter specifies the number of secrets after which the tool will stop. The -i parameter ignores system folders.
 
+<img width="1026" height="764" alt="изображение" src="https://github.com/user-attachments/assets/74a34593-e317-498d-96b6-ca060ceebd12" />
+
 You may have also seen numerous imports after the core libraries in the code. These paths contain the extensions the tool searches for keys. Without specifying any additional search flags, Vulnestio takes all the core extensions from the extension.py file. You can freely change the contents of each extension file, but I don't recommend changing the name of the variable set, as this may cause the program to crash.
 
+<img width="1006" height="306" alt="изображение" src="https://github.com/user-attachments/assets/73630fb5-4a53-4abf-8c30-127ed1898fd7" />
+
 Windows also has a unique feature for finding Wi-Fi passwords using a custom exploit.
+
+<img width="1326" height="523" alt="изображение" src="https://github.com/user-attachments/assets/cc601201-87f3-44da-a8fe-d0b4ee0bc1bc" />
 
 Using the --self-destruction flag, Vulnestio will delete the entire project folder at the end of its execution. This is a kind of trace-covering trick.
 
@@ -43,5 +49,9 @@ There's also a very useful function for filtering files by their minimum and max
 <img width="1366" height="908" alt="изображение" src="https://github.com/user-attachments/assets/08736a26-7610-4371-b6a4-df26fc88bcf1" />
 
 The number of flags and dictionaries for extensions are also being expanded. My preference is to have at least 10,000 for each parameter with extensions. I'm also thinking about adding a flag to ignore certain extensions, as well as a flag for using a custom list of dictionaries. This is all planned for the future, as this tool is practically infinitely expandable, and anyone can throw words to the wind.
+
+<img width="310" height="666" alt="изображение" src="https://github.com/user-attachments/assets/a8eec817-5777-402f-9c1f-3ec5ea9fc275" />
+
+
 
 If you're interested in this project, be sure to give it a star and offer a suggestion. You can also contact me via Telegram. I'm there under the username @Vesel4ak31. I hope at least one person working in or interested in cybersecurity will download and try this tool.
