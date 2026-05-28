@@ -4,7 +4,7 @@ Vulnestio is a Python system scanner that searches for all possible secrets in y
 
 Vulnestio is a Python system scanner that searches for all possible secrets in your filesystem. This tool is very useful as a post-exploitation tool and as a Python system scanner.
 
-Installation
+# Installation
 
 
 ```
@@ -30,7 +30,7 @@ You may have also seen numerous imports after the core libraries in the code. Th
 
 <img width="1006" height="306" alt="изображение" src="https://github.com/user-attachments/assets/73630fb5-4a53-4abf-8c30-127ed1898fd7" />
 
-Windows also has a unique feature for finding Wi-Fi passwords using a custom exploit.
+# Windows also has a unique feature for finding Wi-Fi passwords using a custom exploit.
 
 <img width="1326" height="523" alt="изображение" src="https://github.com/user-attachments/assets/cc601201-87f3-44da-a8fe-d0b4ee0bc1bc" />
 
@@ -48,10 +48,15 @@ There's also a very useful function for filtering files by their minimum and max
 
 <img width="1366" height="908" alt="изображение" src="https://github.com/user-attachments/assets/08736a26-7610-4371-b6a4-df26fc88bcf1" />
 
-The number of flags and dictionaries for extensions are also being expanded. My preference is to have at least 10,000 for each parameter with extensions. I'm also thinking about adding a flag to ignore certain extensions, as well as a flag for using a custom list of dictionaries. This is all planned for the future, as this tool is practically infinitely expandable, and anyone can throw words to the wind.
+# The number of flags and dictionaries for extensions are also being expanded. My preference is to have at least 10,000 for each parameter with extensions. I'm also thinking about adding a flag to ignore certain extensions, as well as a flag for using a custom list of dictionaries. This is all planned for the future, as this tool is practically infinitely expandable, and anyone can throw words to the wind.
 
 <img width="310" height="666" alt="изображение" src="https://github.com/user-attachments/assets/a8eec817-5777-402f-9c1f-3ec5ea9fc275" />
 
 
 
 If you're interested in this project, be sure to give it a star and offer a suggestion. You can also contact me via Telegram. I'm there under the username @Vesel4ak31. I hope at least one person working in or interested in cybersecurity will download and try this tool.
+
+
+# Disclaimer
+
+The author assumes no liability for this tool. It is marketed solely as post-exploitation software for finding secrets only on machines to which you have access. This software is designed solely for personal testing, various CTF competitions, and real-world use.
