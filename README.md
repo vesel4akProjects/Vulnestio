@@ -8,7 +8,7 @@ Vulnestio is a Python system scanner that searches for all possible secrets in y
 
 
 ```
-git clone https://github.com/vesel4akProjects/Vulnestio.git
+git clone https://github.com/Vesel4ak31/Vulnestio.git
 cd Vulnestio
 pip install -r requirements.txt --break-system-packages
 ```
